@@ -1,0 +1,29 @@
+{
+  "url": "https://science-frontier.publume.dev/",
+  "name": "Science Frontier",
+  "description": "A bilingual daily science explainer translating important discoveries into clear evidence, limits, and implications.",
+  "tagline": "Daily science made clear, careful, and useful.",
+  "locale": "en",
+  "outputLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "defaultContentLanguage": "en",
+  "publisherName": "Publume Science Desk",
+  "authorName": "Science Frontier",
+  "contactUrl": "",
+  "aiDisclosure": "",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
+  "showTopics": true,
+  "showScore": false,
+  "showSources": true,
+  "footerText": "",
+  "presentation": {
+    "schemaVersion": 1,
+    "ads": {
+      "provider": "none"
+    }
+  }
+}
