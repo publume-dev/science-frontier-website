@@ -2,7 +2,7 @@
   "url": "https://science-frontier.publume.dev/",
   "name": "Science Frontier",
   "description": "A bilingual daily science explainer translating important discoveries into clear evidence, limits, and implications.",
-  "tagline": "Daily science made clear, careful, and useful.",
+  "tagline": "Clear evidence, methods, and limits from the frontiers of science.",
   "locale": "en",
   "outputLanguages": [
     "zh-CN",
